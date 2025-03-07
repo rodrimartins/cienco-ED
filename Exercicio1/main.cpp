@@ -10,7 +10,7 @@ int main()
     //entrada de dados
     cout << "Informe o seu peso: ";
     cin >> peso;
-    cout << "Informe a sua altura";
+    cout << "Informe a sua altura: ";
     cin >> altura;
 
     //processamento
@@ -25,7 +25,6 @@ int main()
     else{
         cout << "Você está acima do peso";
     }
-
 
     return 0;
 }
